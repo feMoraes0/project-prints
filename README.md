@@ -1,7 +1,6 @@
 # project-prints
 
 ## Investment UI
-
 > Private project.
 
 <p align="center">
@@ -10,7 +9,6 @@
   <img width="200" src="investment-ui/print-003.jpeg">
   <img width="200" src="investment-ui/print-004.jpeg">
 </p>
-
 <p align="center">
   <img width="200" src="investment-ui/print-005.jpeg">
   <img width="200" src="investment-ui/print-006.jpeg">
@@ -37,4 +35,11 @@
 <p align="center">
   <img width="200" src="clima-app/print-001.png">
   <img width="200" src="clima-app/print-002.png">
+</p>
+
+## Animated Stack
+> https://github.com/feMoraes0/animated-stack.git
+
+<p align="center">
+  <img width="500" src="animated-stack/animated_stack.gif">
 </p>
