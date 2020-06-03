@@ -1,18 +1,19 @@
 # project-prints
 
-## Investment UI
-> Private project.
+
+## Animated Stack
+> https://github.com/feMoraes0/animated-stack.git
 
 <p align="center">
-  <img width="200" src="investment-ui/print-001.jpeg">
-  <img width="200" src="investment-ui/print-002.jpeg">
-  <img width="200" src="investment-ui/print-003.jpeg">
-  <img width="200" src="investment-ui/print-004.jpeg">
+  <img width="500" src="animated-stack/animated_stack.gif">
 </p>
+
+## Clima App
+> https://github.com/feMoraes0/clima-app.git
+
 <p align="center">
-  <img width="200" src="investment-ui/print-005.jpeg">
-  <img width="200" src="investment-ui/print-006.jpeg">
-  <img width="200" src="investment-ui/print-007.jpeg">
+  <img width="200" src="clima-app/print-001.png">
+  <img width="200" src="clima-app/print-002.png">
 </p>
 
 ## Entertainment App
@@ -29,17 +30,24 @@
   <img width="200" src="entertainment-app/print-003.png">
 </p>
 
-## Clima App
-> https://github.com/feMoraes0/clima-app.git
+## Investment UI
+> Private project.
 
 <p align="center">
-  <img width="200" src="clima-app/print-001.png">
-  <img width="200" src="clima-app/print-002.png">
+  <img width="200" src="investment-ui/print-001.jpeg">
+  <img width="200" src="investment-ui/print-002.jpeg">
+  <img width="200" src="investment-ui/print-003.jpeg">
+  <img width="200" src="investment-ui/print-004.jpeg">
+</p>
+<p align="center">
+  <img width="200" src="investment-ui/print-005.jpeg">
+  <img width="200" src="investment-ui/print-006.jpeg">
+  <img width="200" src="investment-ui/print-007.jpeg">
 </p>
 
-## Animated Stack
-> https://github.com/feMoraes0/animated-stack.git
+## Pokemon App
+> https://github.com/feMoraes0/pokemon-app.git
 
 <p align="center">
-  <img width="500" src="animated-stack/animated_stack.gif">
+  <img width="300" src="pokemon-app/gif_pokemon.gif">
 </p>
