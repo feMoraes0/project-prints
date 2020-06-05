@@ -47,6 +47,8 @@
 </p>
 <p align="center">
   <img width="200" src="investment-ui/print-009.png">
+  <img width="200" src="investment-ui/print-010.png">
+  <img width="200" src="investment-ui/print-011.png">
 </p>
 
 ## Pokemon App
