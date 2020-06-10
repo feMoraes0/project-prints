@@ -1,6 +1,5 @@
 # project-prints
 
-
 ## Animated Stack
 > https://github.com/feMoraes0/animated-stack.git
 
@@ -49,6 +48,14 @@
   <img width="200" src="investment-ui/print-009.png">
   <img width="200" src="investment-ui/print-010.png">
   <img width="200" src="investment-ui/print-011.png">
+</p>
+
+## Media Dashboard
+> https://github.com/feMoraes0/media-dashboard.git
+
+<p align="center">
+  <img width="450" src="media-dashboard/print-001.png">
+  <img width="450" src="media-dashboard/print-002.png">
 </p>
 
 ## Pokemon App
