@@ -32,7 +32,8 @@
 > https://github.com/feMoraes0/framer-playground.git
 
 <p align="center">
-  <img width="600" src="framer-playground/dark-theme.gif">
+  <img width="400" src="framer-playground/home.gif">
+  <img width="400" src="framer-playground/dark-theme.gif">
 </p>
 
 ## Investment UI
