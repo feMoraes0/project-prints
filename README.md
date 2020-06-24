@@ -16,7 +16,6 @@
 </p>
 
 ## Entertainment App
-
 <p align="center">
   <img width="100" src="entertainment-app/logo.png">
 </p>
@@ -27,6 +26,13 @@
   <img width="200" src="entertainment-app/print-001.png">
   <img width="200" src="entertainment-app/print-002.png">
   <img width="200" src="entertainment-app/print-003.png">
+</p>
+
+## Framer Playground
+> https://github.com/feMoraes0/framer-playground.git
+
+<p align="center">
+  <img width="600" src="framer-playground/dark-theme.gif">
 </p>
 
 ## Investment UI
