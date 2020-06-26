@@ -35,6 +35,9 @@
   <img width="400" src="framer-playground/home.gif">
   <img width="400" src="framer-playground/dark-theme.gif">
 </p>
+<p align="center">
+  <img width="400" src="framer-playground/background-words.gif">
+</p>
 
 ## Investment UI
 > Private project.
