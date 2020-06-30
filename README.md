@@ -1,14 +1,14 @@
 # project-prints
 
 ## Animated Stack
-> https://github.com/feMoraes0/animated-stack.git
+> https://github.com/feMoraes0/animated-stack
 
 <p align="center">
   <img width="500" src="animated-stack/animated_stack.gif">
 </p>
 
 ## Clima App
-> https://github.com/feMoraes0/clima-app.git
+> https://github.com/feMoraes0/clima-app
 
 <p align="center">
   <img width="200" src="clima-app/print-001.png">
@@ -20,7 +20,7 @@
   <img width="100" src="entertainment-app/logo.png">
 </p>
 
-> https://github.com/feMoraes0/entertainment-app.git
+> https://github.com/feMoraes0/entertainment-app
 
 <p align="center">
   <img width="200" src="entertainment-app/print-001.png">
@@ -29,7 +29,7 @@
 </p>
 
 ## Framer Playground
-> https://github.com/feMoraes0/framer-playground.git
+> https://github.com/feMoraes0/framer-playground
 
 <p align="center">
   <img width="400" src="framer-playground/home.gif">
@@ -61,7 +61,7 @@
 </p>
 
 ## Media Dashboard
-> https://github.com/feMoraes0/media-dashboard.git
+> https://github.com/feMoraes0/media-dashboard
 
 <p align="center">
   <img width="450" src="media-dashboard/print-001.png">
@@ -73,4 +73,11 @@
 
 <p align="center">
   <img width="300" src="pokemon-app/gif_pokemon.gif">
+</p>
+
+## Portfolio
+> https://github.com/feMoraes0/portfolio
+
+<p align="center">
+  <img width="500" src="portfolio/portfolio.gif">
 </p>
