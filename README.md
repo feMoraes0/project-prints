@@ -39,6 +39,13 @@
   <img width="400" src="framer-playground/background-words.gif">
 </p>
 
+## Login Animation
+> https://github.com/feMoraes0/login-animation
+
+<p align="center">
+  <img width="500" src="login-animation/print-001.gif">
+</p>
+
 ## Investment UI
 > Private project.
 
