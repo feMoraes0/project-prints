@@ -37,6 +37,7 @@
 </p>
 <p align="center">
   <img width="400" src="framer-playground/background-words.gif">
+  <img width="400" src="framer-playground/hidden-menu.gif">
 </p>
 
 ## Login Animation
