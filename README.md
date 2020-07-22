@@ -82,6 +82,8 @@
 <p align="center">
   <img width="200" src="plants-app/print-001.png">
   <img width="200" src="plants-app/print-002.png">
+  <img width="200" src="plants-app/print-003.png">
+  <img width="200" src="plants-app/plants-app.gif">
 </p>
 
 ## Pokemon App
