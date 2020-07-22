@@ -76,11 +76,19 @@
   <img width="450" src="media-dashboard/print-002.png">
 </p>
 
+## Plants App
+> https://github.com/feMoraes0/plants-app.git
+
+<p align="center">
+  <img width="200" src="plants-app/print-001.png">
+  <img width="200" src="plants-app/print-002.png">
+</p>
+
 ## Pokemon App
 > https://github.com/feMoraes0/pokemon-app.git
 
 <p align="center">
-  <img width="300" src="pokemon-app/gif_pokemon.gif">
+  <img width="200" src="pokemon-app/gif_pokemon.gif">
 </p>
 
 ## Portfolio
