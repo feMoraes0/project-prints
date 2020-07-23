@@ -77,6 +77,10 @@
 </p>
 
 ## Plants App
+<p align="center">
+  <img width="100" src="plants-app/app-icon.png">
+</p>
+
 > https://github.com/feMoraes0/plants-app.git
 
 <p align="center">
