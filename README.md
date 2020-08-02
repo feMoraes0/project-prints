@@ -51,6 +51,10 @@
 > https://github.com/feMoraes0/google-drive.git
 
 <p align="center">
+  <img width="100" src="google-drive/logo-google-drive.png">
+</p>
+
+<p align="center">
   <img width="200" src="google-drive/print-001.png">
   <img width="200" src="google-drive/print-002.png">
 </p>
