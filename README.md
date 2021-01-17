@@ -94,16 +94,16 @@
 > https://github.com/feMoraes0/media-dashboard
 
 <p align="center">
-  <img width="450" src="media-dashboard/print-001.png">
-  <img width="450" src="media-dashboard/print-002.png">
+  <img width="400" src="media-dashboard/print-001.png">
+  <img width="400" src="media-dashboard/print-002.png">
 </p>
 
 ## Nike Web
 > https://github.com/feMoraes0/nike-web
 
 <p align="center">
-  <img width="450" src="nike-web/print-001.png">
-  <img width="450" src="nike-web/print-002.png">
+  <img width="400" src="nike-web/print-001.png">
+  <img width="400" src="nike-web/print-002.png">
 </p>
 
 ## Plants App
