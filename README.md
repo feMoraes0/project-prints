@@ -134,6 +134,13 @@
   <img width="500" src="portfolio/portfolio.gif">
 </p>
 
+## Starbucks Landing Page
+> https://github.com/feMoraes0/starbucks-landing-page
+
+<p align="center">
+  <img width="500" src="starbucks-landing-page/print-001.png">
+</p>
+
 ## WWDC Landing Page
 > https://github.com/feMoraes0/wwdc-landing-page
 
