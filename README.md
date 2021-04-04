@@ -138,7 +138,11 @@
 > https://github.com/feMoraes0/starbucks-landing-page
 
 <p align="center">
-  <img width="500" src="starbucks-landing-page/print-001.png">
+  <img width="400" src="starbucks-landing-page/print-001.png">
+  <img width="400" src="starbucks-landing-page/print-002.png">
+</p>
+<p align="center">
+  <img width="400" src="starbucks-landing-page/print-003.png">
 </p>
 
 ## WWDC Landing Page
