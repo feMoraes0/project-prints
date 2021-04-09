@@ -143,6 +143,7 @@
 </p>
 <p align="center">
   <img width="400" src="starbucks-landing-page/print-003.png">
+  <img width="400" src="starbucks-landing-page/print-004.png">
 </p>
 
 ## WWDC Landing Page
