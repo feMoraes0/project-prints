@@ -24,6 +24,7 @@
 </p>
 <p align="center">
   <img width="400" src="ducati-web/print-003.png">
+  <img width="400" src="ducati-web/print-004.png">
 </p>
 
 ## Entertainment App
