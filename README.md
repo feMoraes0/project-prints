@@ -52,6 +52,14 @@
   <img width="400" src="framer-playground/hidden-menu.gif">
 </p>
 
+## FruitHub App
+> https://github.com/feMoraes0/fruit-hub-app.git
+
+<p align="center">
+  <img width="200" src="fruit-hub-app/welcome.png">
+  <img width="200" src="fruit-hub-app/authentication.png">
+  <img width="200" src="fruit-hub-app/home.png">
+</p>
 ## Google Drive
 > https://github.com/feMoraes0/google-drive.git
 
